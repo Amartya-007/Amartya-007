@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" size='20px'> 
-  Hi! My name is Amartya Vishwakarma. Thank you for taking the time to view my GitHub profile. 😄
+ <h3> Hi! My name is Amartya Vishwakarma. Thank you for taking the time to view my GitHub profile. 😄 </h3>
 </div>
 
 <div align="center">
@@ -51,18 +51,19 @@
 
 <div align="center">
   <h2>Connect with me <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="50px" height="50px"> </h2>
-</div>
-<div align="center" style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/amartya-vishwakarma-bbaa39241/">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" />
-  </a> 
-  <a href="https://github.com/Amartya-007">
-    <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
+</div >
+<div align="center">
+  <a href="https://www.linkedin.com/in/amartya-vishwakarma-bbaa39241/" style="margin-right: 20px;">
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" />
+  </a>
+  <a href="https://github.com/Amartya-007" style="margin-right: 20px;">
+    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
   </a>
   <a href="mailto:Amartya1820@gmail.com">
-    <img width="32px" src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" />
+    <img width="40px" src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" />
   </a>
 </div>
+
 
 <br>
 
@@ -71,10 +72,10 @@
 </div>
 <div align="center">
   <a href="https://github.com/Amartya-007/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&count_private=true&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&show=reviews&theme=transparent" />
   </a> 
   <a href="https://github.com/Amartya-007/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&theme=transparent" />
   </a>
 </div>
 
