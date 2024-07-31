@@ -1,28 +1,20 @@
-## 🔧 Building Innovative Solutions
 
----
+### Hi, I'm Amartya Vishwakarma!
 
-### Hi, I'm Amartya Vishwakarma! Glad you're here!
+I'm a Computer Science undergrad with a deep passion for software development, especially in AI technologies and web development. I enjoy experimenting with code and exploring the latest tech trends.
 
-A CS Undergrad. Thanks for stopping by my GitHub profile! I love tinkering with code and exploring new tech.
+- 🌱 I’m focused on Python, Machine Learning, and Web Development.
+- ✨ Fun fact: I’m a free-minded person who loves going out, roaming around, and traveling.
 
-A passionate software developer specializing in AI technologies and web development.
-
-- 🌱 I’m also about Python, Machine Learning, and Web Development.
-- ✨ Fun fact: I'm a passionate reader who loves sci-fi and fantasy novels.
-
----
 
 ### Connect with me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amartya-vishwakarma-bbaa39241/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amartya_Vishwakarma/)
 
 ---
 
 ### 🛠 Languages & Frameworks & Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -37,13 +29,15 @@ A passionate software developer specializing in AI technologies and web developm
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+
+
 ---
 
 ### ⚡ GitHub Stats
 
-![Amartya Vishwakarma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amartya-007&show_icons=true&theme=dark&icon_color=white)
+![Amartya Vishwakarma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amartya-007&theme=prussian&show_icons=true&hide_border=true&count_private=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amartya-007&theme=prussian&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&layout=compact&theme=dark)
+
 
 ---
 
