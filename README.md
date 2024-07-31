@@ -72,11 +72,12 @@
 <div align="center">
   <a href="https://github.com/Amartya-007/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&count_private=true&show_icons=true&theme=dark" />
-  </a>
+  </a> 
   <a href="https://github.com/Amartya-007/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&theme=dark" />
   </a>
 </div>
+
 
 <div align="center">
   <h2> My LeetCode Stats <img src="https://github.com/user-attachments/assets/a15a72a9-26a5-4e10-8a51-7c202b0d3855" width="32px" height="32px"> </h2>
