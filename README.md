@@ -73,7 +73,7 @@
   <a href="https://github.com/Amartya-007/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&count_private=true&show_icons=true&theme=dark" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/Amartya-007/convoychat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&theme=dark" />
   </a>
 </div>
