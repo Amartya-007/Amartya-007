@@ -55,15 +55,15 @@
 
 <h2> My GitHub Stats <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif" width="32px" height="32px"> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Amartya-007&count_private=true&show_icons=true&theme=default" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Amartya-007&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&theme=dark" />
 </a>
 
 <h2> My LeetCode Stats <img src="https://github.com/user-attachments/assets/a15a72a9-26a5-4e10-8a51-7c202b0d3855" width="32px" height="32px"> </h2>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Amartya_Vishwakarma?theme=light&font=Abel)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Amartya_Vishwakarma?theme=dark&font=Abel)
 
 <h2> Some Programming Humor for you <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif" width="32px" height="32px"></h2>
 
