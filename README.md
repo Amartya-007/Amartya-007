@@ -71,7 +71,7 @@
   <h2> My GitHub Stats <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif" width="32px" height="32px"> </h2>
 </div>
 <div align="center">
-  <a href="https://github.com/Amartya-007/github-readme-stats">
+  <a href="https://github.com/Amartya-007">
     <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&theme=transparent" />
   </a> 
   <a href="https://github.com/Amartya-007/convoychat">
