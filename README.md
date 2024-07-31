@@ -41,7 +41,7 @@ A passionate software developer specializing in AI technologies and web developm
 
 ### ⚡ GitHub Stats
 
-![Amartya Vishwakarma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amartya-007&show_icons=true&theme=dark)
+![Amartya Vishwakarma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amartya-007&show_icons=true&theme=dark&icon_color=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&layout=compact&theme=dark)
 
@@ -49,10 +49,7 @@ A passionate software developer specializing in AI technologies and web developm
 
 ### 💡 LeetCode Stats
 
-- Over 50 questions solved
-- Current streak: 20 days
-- Maximum streak: 20 days
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Amartya_Vishwakarma?theme=dark&font=Comic%20Neue)
 ---
 
 I appreciate your time! 😊
