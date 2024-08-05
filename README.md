@@ -72,10 +72,10 @@
 </div>
 <div align="center">
   <a href="https://github.com/Amartya-007">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&&show=reviews,prs_merged&theme=transparent" />
   </a> 
   <a href="https://github.com/Amartya-007">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&show_icons=true&theme=transparent" />
   </a>
 </div>
 
