@@ -75,7 +75,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&theme=transparent" />
   </a> 
   <a href="https://github.com/Amartya-007">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&show_icons=true&theme=radical" />
   </a>
 </div>
 
