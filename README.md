@@ -85,8 +85,8 @@
 </div>
 
 <div align="center">
-  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Amartya_Vishwakarma?theme=dark&font=Abel)
+  <a herf="https://leetcode.com/u/Amartya_Vishwakarma/">
+  <img src ="https://leetcard.jacoblin.cool/Amartya_Vishwakarma?theme=dark&font=Abel" />
 </div>
 
 <div align="center">
