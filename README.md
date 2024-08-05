@@ -85,9 +85,11 @@
 </div>
 
 <div align="center">
-  <a herf="https://leetcode.com/u/Amartya_Vishwakarma/">
-  <img src ="https://leetcard.jacoblin.cool/Amartya_Vishwakarma?theme=dark&font=Abel" />
+  <a href="https://leetcode.com/u/Amartya_Vishwakarma/">
+    <img src="https://leetcard.jacoblin.cool/Amartya_Vishwakarma?theme=dark&font=Abel" />
+  </a>
 </div>
+
 
 <div align="center">
   <h2> Some Programming Humor for you <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif" width="32px" height="32px"></h2>
