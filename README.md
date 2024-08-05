@@ -74,7 +74,7 @@
   <a href="https://github.com/Amartya-007">
     <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&theme=transparent" />
   </a> 
-  <a href="https://github.com/Amartya-007/convoychat">
+  <a href="https://github.com/Amartya-007">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&theme=transparent" />
   </a>
 </div>
