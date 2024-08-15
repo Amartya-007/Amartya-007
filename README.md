@@ -13,6 +13,11 @@
 <div align="center">
   <h2> 
     About Me<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100px" height="80px" >
+    <!-- Profile views counter -->
+    <p align="right"> 
+      <img src="https://komarev.com/ghpvc/?username=Amartya-007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
+
   </h2>
 </div>
 
