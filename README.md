@@ -110,6 +110,8 @@
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
 <!-- Profile views counter -->
-    <p align="right"> 
+<div align="left">
+    <p > 
       <img src="https://komarev.com/ghpvc/?username=Amartya-007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
+    </p>
+</div>
