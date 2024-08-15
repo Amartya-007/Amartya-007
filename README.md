@@ -67,17 +67,26 @@
 
 <br>
 
-<div align="center">
-  <h2> My GitHub Stats <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif" width="32px" height="32px"> </h2>
+<h2 align="center">⚡ GitHub Analytics ⚡</h2>
+<br>
+
+<!-- First Row: Two images side by side -->
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+  <img height="155em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Amartya-007&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img height="155em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Amartya-007&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
-<div align="center">
-  <a href="https://github.com/Amartya-007">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&&show=reviews,prs_merged&theme=transparent" />
-  </a> 
-  <a href="https://github.com/Amartya-007">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&show_icons=true&theme=transparent" />
-  </a>
+
+<br>
+
+<!-- Second Row: Two images side by side -->
+<div align="center" style="display: flex; justify-content: center; gap: 30px;">
+  <img height="155em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Amartya-007&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amartya-007&theme=react&border_radius=10" alt="Graph of Commits" 
+
 </div>
+ </div>
+
+
 
 
 <div align="center">
@@ -86,7 +95,8 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/Amartya_Vishwakarma/">
-    <img src="https://leetcard.jacoblin.cool/Amartya_Vishwakarma?theme=dark&font=Abel" />
+    <!-- LeetCode Heat Map -->
+    <img align="center" height="155em" src="https://leetcard.jacoblin.cool/Amartya_Vishwakarma?&theme=dark" alt="LeetCode Heat Map" />
   </a>
 </div>
 
