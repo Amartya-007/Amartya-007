@@ -88,8 +88,13 @@
   <img height="155em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Amartya-007&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
    <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amartya-007&theme=react&border_radius=10" alt="Graph of Commits" 
      
-  ![github-user-contribution](https://github.com/user-attachments/assets/0c62baa0-4208-4c28-8c0b-14cbb088c4cf)
+  ![Snake Game](https://github.com/user-attachments/assets/0c62baa0-4208-4c28-8c0b-14cbb088c4cf)
 
+  <h3>Top Contributions</h3>
+  
+   ![](https://github-contributor-stats.vercel.app/api?username=Amartya-007&limit=5&theme=react&combine_all_yearly_contributions=true)
+
+  
 </div>
  </div>
 
