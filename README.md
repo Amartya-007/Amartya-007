@@ -66,7 +66,12 @@
 
 
 <br>
-
+<div align="center">
+<h2> 🏆 GitHub Trophies</h2>  
+  
+  ![](https://github-profile-trophy.vercel.app/?username=Amartya-007&theme=panda&no-frame=false&no-bg=false&margin-w=4)
+</div>
+<br>
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <br>
 
@@ -102,15 +107,21 @@
   </a>
 </div>
 
+<div align="center">
+  <h2> ✍️ Random Dev Quote</h2>
+    
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
+
 
 <div align="center">
   <h2> Some Programming Humor for you <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif" width="32px" height="32px"></h2>
     
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
+
 <!-- Profile views counter -->
 <div align="left">
-    <p > 
-      <img src="https://komarev.com/ghpvc/?username=Amartya-007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-    </p>
+  
+  [![Profile views](https://visitcount.itsvg.in/api?id=Amartya-007&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
 </div>
