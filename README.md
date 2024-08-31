@@ -99,8 +99,6 @@
  </div>
 
 
-
-
 <div align="center">
   <h2> My LeetCode Stats <img src="https://github.com/user-attachments/assets/a15a72a9-26a5-4e10-8a51-7c202b0d3855" width="32px" height="32px"> </h2>
 </div>
