@@ -116,7 +116,7 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
 
-
+<!-- Jokes -->
 <div align="center">
   <h2> Some Programming Humor for you <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif" width="32px" height="32px"></h2>
     
