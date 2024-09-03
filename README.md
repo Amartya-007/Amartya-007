@@ -22,7 +22,8 @@
 
 <div align="center">
   <ul>
-    <li>🔭 <b>Currently working on:</b> Enhancing my <a href="https://github.com/Amartya-007/DSA-WITH-JAVA">DSA-WITH-JAVA repo</a> and integrating machine learning into web apps.</li>
+    <li>🔭 <b>Currently working on:</b> Enhancing my <a href="https://github.com/Amartya-007/DSA-WITH-JAVA">DSA-WITH-JAVA </a> repository , 
+      <a href="https://github.com/Amartya-007/SQL-Learning-Form-Scratch">SQL-Learning-From-Scratch </a> repository and integrating machine learning into web apps.</li>
     <li>🌱 <b>Currently focused on:</b> Advanced Python, TensorFlow, and the latest in JavaScript and React.</li>
     <li>👯 <b>Looking to collaborate on:</b> Innovative tech projects, open-source contributions, and cool machine learning ideas.</li>
     <li>💬 <b>Talk to me about:</b> Python, JavaScript, web development, and AI advancements.</li>
