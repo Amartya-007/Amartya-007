@@ -128,6 +128,6 @@
 <!-- Profile views counter -->
 <div align="left">
   
-  [![Profile views](https://visitcount.itsvg.in/api?id=Amartya-007&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
+  ![](https://visitcount.itsvg.in/api?id=Amartya007&label=My%20Friends&color=12&icon=7&pretty=true)
 </div>
 </div>
