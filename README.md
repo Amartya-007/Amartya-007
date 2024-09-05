@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
   <img width="100%" height="250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
 </div>
 
@@ -128,4 +129,5 @@
 <div align="left">
   
   [![Profile views](https://visitcount.itsvg.in/api?id=Amartya-007&label=Profile%20Views&color=12&icon=7&pretty=true)](https://visitcount.itsvg.in)
+</div>
 </div>
