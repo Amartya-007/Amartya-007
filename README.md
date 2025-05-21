@@ -1,133 +1,97 @@
-<div align="center">
-<div align="center">
-  <img width="100%" height="250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png" alt="cover" />
-</div>
+<h1 align="center">Hi there 👋, I'm Amartya Vishwakarma</h1>
+<h3 align="center">💻 Full-Stack Developer | 🧠 AI Explorer</h3>
 
-<div align="center">
-  <h1> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height="50px"> </h1>
-</div>
+---
 
-<div align="center" size='20px'> 
- <h3> Hi! My name is Amartya Vishwakarma. Thank you for taking the time to view my GitHub profile. 😄 </h3>
-</div>
+### 🚀 About Me
 
-<div align="center">
-  <h2> 
-    About Me<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100px" height="80px" >
-  </h2>
-</div>
+- 📘 Learning: **Java**, **Python**, **C++**, and **C#**
+- 🤖 Exploring innovative ways to apply and integrate new **AI technologies**
+- 💡 Passionate about building and experimenting with real-world tech
+- 📫 Reach me at: [amartya1820@gmail.com](mailto:amartya1820@gmail.com)
 
-<div align="center">
-  <img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-</div>
+---
 
-<div align="center">
-  <ul>
-    <li>🔭 <b>Currently working on:</b> Enhancing my <a href="https://github.com/Amartya-007/DSA-WITH-JAVA">DSA-WITH-JAVA </a> repository , 
-      <a href="https://github.com/Amartya-007/SQL-Learning-Form-Scratch">SQL-Learning-From-Scratch </a> repository and integrating machine learning into web apps.</li>
-    <li>🌱 <b>Currently focused on:</b> Advanced Python, TensorFlow, and the latest in JavaScript and React.</li>
-    <li>👯 <b>Looking to collaborate on:</b> Innovative tech projects, open-source contributions, and cool machine learning ideas.</li>
-    <li>💬 <b>Talk to me about:</b> Python, JavaScript, web development, and AI advancements.</li>
-    <li>🧠 <b>Fun fact:</b> I’m a free-minded person who loves going out, roaming around, and traveling. 🌍</li>
-  </ul>
-</div>
+### 🛠️ Tech Stack
 
-<div align="center">
-  <h2> Skills <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="32px" height="32px"> </h2>
-</div>
-<div align="center">
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=python&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=javascript&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=c&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=cpp&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=sqlite&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=html&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=css&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=java&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=github&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=hackerrank&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=mongodb&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=reactjs&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></a>
-  <a href="https://github.com/Amartya-007?tab=repositories&q=&type=&language=tensorflow&sort="><img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg"></a>
-</div>
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-<div align="center">
-  <h2>Connect with me <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif" width="50px" height="50px"> </h2>
-</div >
-<div align="center">
-  <a href="https://www.linkedin.com/in/amartya-vishwakarma-bbaa39241/" style="margin-right: 20px;">
-    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" />
-  </a>
-  <a href="https://github.com/Amartya-007" style="margin-right: 20px;">
-    <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" />
-  </a>
-  <a href="mailto:Amartya1820@gmail.com">
-    <img width="40px" src="https://img.icons8.com/?size=100&id=EgRndDDLh8kS&format=png&color=000000" />
-  </a>
-</div>
+#### Frameworks & Tools
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+#### AI & APIs
+![Gemini API](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat&logo=google&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-FF6F00?style=flat&logo=voice-recognition&logoColor=white)
 
-<br>
-<div align="center">
-<h2> 🏆 GitHub Trophies</h2>  
-  
-  ![](https://github-profile-trophy.vercel.app/?username=Amartya-007&theme=panda&no-frame=false&no-bg=false&margin-w=4)
-</div>
-<br>
-<h2 align="center">⚡ GitHub Analytics ⚡</h2>
-<br>
+---
 
-<!-- First Row: Two images side by side -->
-<div align="center" style="display: flex; justify-content: center; gap: 30px;">
-  <img height="155em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Amartya-007&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <img height="155em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Amartya-007&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
+### 🧠 LeetCode
 
-<br>
-
-<!-- Second Row: Two images side by side -->
-<div align="center" style="display: flex; justify-content: center; gap: 30px;">
-  <img height="155em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Amartya-007&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-   <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amartya-007&theme=react&border_radius=10" alt="Graph of Commits" 
-     
-  ![Snake Game](https://github.com/user-attachments/assets/0c62baa0-4208-4c28-8c0b-14cbb088c4cf)
-
-  <h3>Top Contributions</h3>
-  
-   ![](https://github-contributor-stats.vercel.app/api?username=Amartya-007&limit=5&theme=react&combine_all_yearly_contributions=true)
-
-  
-</div>
- </div>
-
-
-<div align="center">
-  <h2> My LeetCode Stats <img src="https://github.com/user-attachments/assets/a15a72a9-26a5-4e10-8a51-7c202b0d3855" width="32px" height="32px"> </h2>
-</div>
-
-<div align="center">
+<p align="center">
   <a href="https://leetcode.com/u/Amartya_Vishwakarma/">
-    <!-- LeetCode Heat Map -->
-    <img align="center" height="155em" src="https://leetcard.jacoblin.cool/Amartya_Vishwakarma?&theme=dark" alt="LeetCode Heat Map" />
+    <img src="https://leetcard.jacoblin.cool/Amartya_Vishwakarma?theme=dark&font=Karma" height="160" />
   </a>
-</div>
+</p>
 
-<div align="center">
-  <h2> ✍️ Random Dev Quote</h2>
-    
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amartya-vishwakarma-bbaa39241/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amartya1820@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Amartya-007">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Quote for You
+
+<div>
+  
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
 
+---
+
 <!-- Jokes -->
-<div align="center">
+<div>
   <h2> Some Programming Humor for you <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif" width="32px" height="32px"></h2>
     
   ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
 
-<!-- Profile views counter -->
-<div align="left">
-  
-  ![](https://visitcount.itsvg.in/api?id=Amartya007&label=My%20Friends&color=12&icon=7&pretty=true)
-</div>
-</div>
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amartya-007&theme=react-dark&hide_border=true" alt="Activity Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amartya-007&theme=react&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&show_icons=true&theme=react&hide_border=true" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&layout=compact&theme=react&hide_border=true" height="150" />
+</p>
+
+---
+
+> ⚡ *Thanks for visiting! Feel free to check out my repositories and drop a ⭐ if you like them!*
