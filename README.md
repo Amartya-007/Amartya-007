@@ -79,18 +79,25 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+<h3>📊 GitHub Stats & Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=11109&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="WakaTime Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amartya-007&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amartya-007&theme=react&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&show_icons=true&theme=react&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amartya-007&theme=react&hide_border=true" height="150" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amartya-007&show_icons=true&theme=react&hide_border=true" height="150" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&layout=compact&theme=react&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amartya-007&layout=compact&theme=react&hide_border=true" height="150" alt="Top Languages" />
 </p>
+
 
 ---
 
